@@ -1,5 +1,5 @@
 # devrev
-frontend codes
+Library Management System
 
 i have used react js primarily to write the codes
 steps to run the code :
