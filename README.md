@@ -13,5 +13,5 @@ open terminal in the project folder ->
 npm start
 
 for succesful login please use the following credentials
-email: devrev@gmail.com
+email: sameerstaj@gmail.com
 password: 123
